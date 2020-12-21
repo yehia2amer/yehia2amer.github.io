@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://Software & Beyond-theme.netlify.app/sitemap.xml
