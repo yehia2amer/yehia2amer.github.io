@@ -26,24 +26,7 @@ To put a flowchart in your post use below snippet
 
 **Code**
 
-```
-{% mermaid() %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% end %}
-```
 
-**Output**
-{% mermaid() %}
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-{% end %}
 
 ## Sequence Diagram
 
