@@ -28,7 +28,6 @@ anchors = "on"
 
 [extra]
 
-
 navbar_items = [
 	{ url = "$BASE_URL/", name = "Home" },
 	{ url = "$BASE_URL/posts", name = "Posts" },
@@ -59,9 +58,9 @@ twitter = "RatanShreshtha"
 [extra.analytics]
 google = "UA-176984489-2"
 
-[extra.commenting]
-talkyard_server_url = "https://comments-for-softwareandbeyond-com.talkyard.net"
-talkyard_script_url = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
-
 [extra.mapbox]
 access_token = "pk.eyJ1IjoicmF0YW5zaHJlc2h0aGEiLCJhIjoiY2tla2s2NmM3MDd0ZzJzbXFtc3Y2YmU0NyJ9.0RhUnJPKbxHWw3xGPnnBlA"
+
+[extra.comments]
+talkyard_server_url = "https://comments-for-softwareandbeyond-com.talkyard.net"
+talkyard_script_url = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"

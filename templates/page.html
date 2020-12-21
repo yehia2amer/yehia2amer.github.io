@@ -61,8 +61,20 @@
       {% endif %}
     </div>
   </div>
+  TEST001
+
+<script>talkyardServerUrl='{{ config.extra.comments.talkyard_server_url | safe }}';</script>
+<script async defer src="{{ config.extra.comments.talkyard_script_url }}"></script>
+<!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
+<div class="talkyard-comments" data-discussion-id="{% if page.extra.discussion_id %}{{ page.extra.discussion_id }}{% endif %}" style="margin-top: 45px;">
+<noscript>Please enable Javascript to view comments.</noscript>
+<p style="margin-top: 25px; opacity: 0.9; font-size: 96%">Comments powered by
+<a href="https://www.talkyard.io">Talkyard</a>.</p>
+</div>
+
 </section>
-{% endblock content %} {% block pagination%} {% if page.earlier or page.later or
+{% endblock content %}
+{% block pagination%} {% if page.earlier or page.later or
 page.lighter or page.heavier %}
 <section class="section">
   <div class="container">
@@ -121,29 +133,4 @@ page.lighter or page.heavier %}
     </div>
   </div>
 </section>
-{% endif %} {% endblock %} {% block comment %} {% if page.extra.comments and
-config.extra.commenting.hyvor %}
-<section class="section pt-0">
-  <div class="container">
-    <div class="columns is-centered">
-      <div class="column is-6">
-        <div id="hyvor-talk-view"></div>
-      </div>
-    </div>
-  </div>
-</section>
-{% endif %} {% endblock %} {% block custom_js %} {% if page.extra.comments and
-config.extra.commenting.hyvor %}
-<script type="text/javascript">
-  var HYVOR_TALK_WEBSITE = {{ config.extra.commenting.hyvor }};
-  var HYVOR_TALK_CONFIG = {
-    url: window.location.href,
-    id: window.btoa(encodeURIComponent(escape(window.location.href)))
-  };
-</script>
-<script
-  async
-  src="//talk.hyvor.com/web-api/embed"
-  type="text/javascript"
-></script>
 {% endif %} {% endblock %}
