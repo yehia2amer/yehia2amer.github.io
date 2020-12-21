@@ -12,10 +12,7 @@ jobs:
     - name: emosenkis/zola-deploy-action
       uses: emosenkis/zola-deploy-action@master
       env:
-<<<<<<< HEAD
         PAGES_BRANCH: gh-pages
         BUILD_DIR: .
         BUILD_FLAGS: --drafts
-=======
->>>>>>> 310fcc01ee1d6fd4da81fd49c5c1f3e21b40d1fd
         TOKEN: ${{ secrets.ZOLA }}
