@@ -12,4 +12,3 @@ jobs:
         PAGES_BRANCH: master
         BUILD_DIR: .
         BUILD_FLAGS: --drafts
-        TOKEN: ${{ secrets.a30aa7df9b6df4f7c288dd82c6f764632c7a983d   }}
