@@ -12,6 +12,4 @@ jobs:
         PAGES_BRANCH: master
         BUILD_DIR: .
         BUILD_FLAGS: --drafts
-        TOKEN: ${{ secrets.bc2ebd0308902675deab09945a4392b406a36d2e }}
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        TOKEN: ${{ secrets.8941703fdb658bc01936bade55e497d3b2d5a038 }}
