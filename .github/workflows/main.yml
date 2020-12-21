@@ -14,3 +14,5 @@ jobs:
         BUILD_FLAGS: --drafts
         TOKEN: ${{ secrets.bc2ebd0308902675deab09945a4392b406a36d2e }}
         GITHUB_TOKEN : ${{ secrets.bc2ebd0308902675deab09945a4392b406a36d2e }}
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
