@@ -12,4 +12,4 @@ jobs:
         PAGES_BRANCH: master
         BUILD_DIR: .
         BUILD_FLAGS: --drafts
-        TOKEN: ${{ secrets.8941703fdb658bc01936bade55e497d3b2d5a038 }}
+        TOKEN: ${{ secrets.ZOLA }}
