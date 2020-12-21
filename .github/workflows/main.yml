@@ -5,11 +5,11 @@ on:
 name: Build and deploy on push
 jobs:
   build:
-    name: zbrox/zola-deploy-action
+    name:  emosenkis/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: zbrox/zola-deploy-action
-      uses: zbrox/zola-deploy-action@master
+    - name: emosenkis/zola-deploy-action
+      uses: emosenkis/zola-deploy-action@master
       env:
         TOKEN: ${{ secrets.ZOLA }}
