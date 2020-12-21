@@ -11,7 +11,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Set git remote
       run: |
-        git remote set-url origin https://yehia2amer:${{secrets.GITHUB_TOKEN}}@github.com/yehia2amer/yehia2amer.github.io
+        git remote set-url origin https://yehia2amer:${{secrets.ZOLA}}@github.com/yehia2amer/yehia2amer.github.io
     - name: emosenkis/zola-deploy-action
       uses: emosenkis/zola-deploy-action@master
       env:
