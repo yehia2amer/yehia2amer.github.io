@@ -5,12 +5,12 @@ on:
 name: Build and deploy on push
 jobs:
   build:
-    name:  emosenkis/zola-deploy-action
+    name:  yehia2amer/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: emosenkis/zola-deploy-action
-      uses: emosenkis/zola-deploy-action@master
+    - name: yehia2amer/zola-deploy-action
+      uses: yehia2amer/zola-deploy-action@master
       env:
         PAGES_BRANCH: gh-pages
         BUILD_DIR: .
