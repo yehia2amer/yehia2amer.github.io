@@ -6,4 +6,4 @@ command = "zola build"
 ZOLA_VERSION = "0.11.0"
 
 [context.deploy-preview]
-command = "zola build --base-url https://Software & Beyond-theme.netlify.app"
+command = "zola build --base-url https://yehia2amer.github.io"

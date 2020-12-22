@@ -94,7 +94,7 @@ with `vimeo(id="id_here")`
 
 ## Links
 
-[Of Course](https://Software & Beyond-theme.netlify.app/)
+[Of Course](https://yehia2amer.github.io/)
 
 ## Tables
 You can make tables in markdown, too!  Who would have thought.  Are these styled yet?

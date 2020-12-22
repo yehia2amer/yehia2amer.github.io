@@ -4,7 +4,7 @@ A simple blog theme focused on writing powered by Bulma and Zola.
 ![Software & Beyond](./screenshot.png)
 
 ## Live Demo
-Live version of the website is available at [here](https://Software & Beyond-theme.netlify.app/)
+Live version of the website is available at [here](https://yehia2amer.github.io/)
 
 ## Installation
 Get [Zola](https://www.getzola.org/) and follow their guide on [installing a theme](https://www.getzola.org/documentation/themes/installing-and-using-themes/).
