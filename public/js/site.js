@@ -206,14 +206,7 @@ $(document).ready(function () {
 
   $("#dark-mode").click(function () {
     if (
-      localStorage.getItem("theme") == null) {
-      localStorage.setItem("theme", "dark");
-      $("body").attr("theme", "dark");
-      $("img, picture, video").attr("theme", "dark");
-
-      $("#dark-mode").attr("title", "Switch to light theme");
-    } 
-    if (
+      localStorage.getItem("theme") == null ||
       localStorage.getItem("theme") == "light"
     ) {
       localStorage.setItem("theme", "dark");

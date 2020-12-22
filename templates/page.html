@@ -65,13 +65,15 @@
 <section class="section">
   <div class="container">
     <div class="columns is-centered">
-      <script>talkyardServerUrl='{{ config.extra.comments.talkyard_server_url | safe }}';</script>
-      <script async defer src="{{ config.extra.comments.talkyard_script_url }}"></script>
+      <div id="hashover"></div> 
+      <script type="text/javascript" src="http://ranmm3.sg-host.com/hashover/comments.php"></script> 
+        <!-- <script>talkyardServerUrl='{{ config.extra.comments.talkyard_server_url | safe }}';</script>
+      <script async defer src="{{ config.extra.comments.talkyard_script_url }}"></script> -->
       <!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
-      <div class="talkyard-comments" data-discussion-id="{% if page.extra.discussion_id %}{{ page.extra.discussion_id }}{% endif %}" style="margin-top: 45px;">
+      <!-- <div class="talkyard-comments" data-discussion-id="{% if page.extra.discussion_id %}{{ page.extra.discussion_id }}{% endif %}" style="margin-top: 45px;">
       <noscript>Please enable Javascript to view comments.</noscript>
       <p style="margin-top: 25px; opacity: 0.9; font-size: 96%">Comments powered by
-      <a href='https://www.talkyard.io'>Talkyard</a>.</p>      
+      <a href='https://www.talkyard.io'>Talkyard</a>.</p>       -->
     </div>
   </div>
 </section>
