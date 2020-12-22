@@ -206,6 +206,7 @@ $(document).ready(function () {
 
   $("#dark-mode").click(function () {
     if (
+      localStorage.getItem("theme") == null ||
       localStorage.getItem("theme") == "light"
     ) {
       localStorage.setItem("theme", "dark");
