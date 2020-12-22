@@ -5,6 +5,9 @@ date=2018-08-20
 [taxonomies]
 categories = ["Sample Post"]
 tags = ["post", "lorem"]
+[extra]
+discussion_id = "2017-what-is-zola"
+
 +++
 
 
