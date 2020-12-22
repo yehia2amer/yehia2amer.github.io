@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Software &amp; Beyond</title>
-        <link>https://Software &amp; Beyond-theme.netlify.app</link>
+        <link>https://yehia2amer.github.io</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://Software & Beyond-theme.netlify.app/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://yehia2amer.github.io/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Welcome to Software &amp; Beyond</title>
             <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/welcome-to-deep-thought/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/welcome-to-deep-thought/</guid>
+            <link>https://yehia2amer.github.io/docs/welcome-to-deep-thought/</link>
+            <guid>https://yehia2amer.github.io/docs/welcome-to-deep-thought/</guid>
             <description>&lt;p&gt;This is a small example post of stuff you can do with the &lt;code&gt;Software &amp;amp; Beyond&lt;&#x2F;code&gt; theme.
 We&#x27;ll try to represent all possible markdown and shortcode combinations here
 so you can develop easily.&lt;&#x2F;p&gt;
@@ -21,24 +21,24 @@ so you can develop easily.&lt;&#x2F;p&gt;
         <item>
             <title>Config Options</title>
             <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/config-options/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/config-options/</guid>
+            <link>https://yehia2amer.github.io/docs/config-options/</link>
+            <guid>https://yehia2amer.github.io/docs/config-options/</guid>
             <description>&lt;p&gt;Software &amp;amp; Beyond theme provides some config option like option to add favicon to your site, add avatar for profile, setup social links for the profile etc&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Extended Shortcodes</title>
             <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/extended-shortcodes/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/extended-shortcodes/</guid>
+            <link>https://yehia2amer.github.io/docs/extended-shortcodes/</link>
+            <guid>https://yehia2amer.github.io/docs/extended-shortcodes/</guid>
             <description>&lt;p&gt;Software &amp;amp; Beyond theme provides multiple shortcodes on top of built-in ones in Zola.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Basic Markdown Syntax</title>
             <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/basic-markdown-syntax/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/basic-markdown-syntax/</guid>
+            <link>https://yehia2amer.github.io/docs/basic-markdown-syntax/</link>
+            <guid>https://yehia2amer.github.io/docs/basic-markdown-syntax/</guid>
             <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Zola content files.&lt;&#x2F;p&gt;
 &lt;!--more--&gt;
 &lt;p&gt;Let&#x27;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.&lt;&#x2F;p&gt;
@@ -453,80 +453,80 @@ This is a footnote with &amp;quot;label&amp;quot;&lt;&#x2F;span&gt;&lt;span styl
         <item>
             <title>Ninth Post</title>
             <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-9/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-9/</guid>
+            <link>https://yehia2amer.github.io/posts/post-9/</link>
+            <guid>https://yehia2amer.github.io/posts/post-9/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Eighth Post</title>
             <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-8/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-8/</guid>
+            <link>https://yehia2amer.github.io/posts/post-8/</link>
+            <guid>https://yehia2amer.github.io/posts/post-8/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Seventh Post</title>
             <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-7/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-7/</guid>
+            <link>https://yehia2amer.github.io/posts/post-7/</link>
+            <guid>https://yehia2amer.github.io/posts/post-7/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Sixth Post</title>
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-6/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-6/</guid>
+            <link>https://yehia2amer.github.io/posts/post-6/</link>
+            <guid>https://yehia2amer.github.io/posts/post-6/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Fifth Post</title>
             <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-5/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-5/</guid>
+            <link>https://yehia2amer.github.io/posts/post-5/</link>
+            <guid>https://yehia2amer.github.io/posts/post-5/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Fourth Post</title>
             <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-4/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-4/</guid>
+            <link>https://yehia2amer.github.io/posts/post-4/</link>
+            <guid>https://yehia2amer.github.io/posts/post-4/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Third Post</title>
             <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-3/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-3/</guid>
+            <link>https://yehia2amer.github.io/posts/post-3/</link>
+            <guid>https://yehia2amer.github.io/posts/post-3/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Second Post</title>
             <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-2/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-2/</guid>
+            <link>https://yehia2amer.github.io/posts/post-2/</link>
+            <guid>https://yehia2amer.github.io/posts/post-2/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>First Post</title>
             <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-1/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-1/</guid>
+            <link>https://yehia2amer.github.io/posts/post-1/</link>
+            <guid>https://yehia2amer.github.io/posts/post-1/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Zeroth Post</title>
             <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/posts/post-0/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/posts/post-0/</guid>
+            <link>https://yehia2amer.github.io/posts/post-0/</link>
+            <guid>https://yehia2amer.github.io/posts/post-0/</guid>
             <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
         </item>

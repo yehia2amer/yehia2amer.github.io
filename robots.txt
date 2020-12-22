@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://Software & Beyond-theme.netlify.app/sitemap.xml
+Sitemap: https://yehia2amer.github.io/sitemap.xml

@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Software &amp; Beyond - Markdown</title>
-        <link>https://Software &amp; Beyond-theme.netlify.app</link>
+        <link>https://yehia2amer.github.io</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://Software & Beyond-theme.netlify.app/categories/markdown/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://yehia2amer.github.io/categories/markdown/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Basic Markdown Syntax</title>
             <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/basic-markdown-syntax/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/basic-markdown-syntax/</guid>
+            <link>https://yehia2amer.github.io/docs/basic-markdown-syntax/</link>
+            <guid>https://yehia2amer.github.io/docs/basic-markdown-syntax/</guid>
             <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Zola content files.&lt;&#x2F;p&gt;
 &lt;!--more--&gt;
 &lt;p&gt;Let&#x27;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.&lt;&#x2F;p&gt;

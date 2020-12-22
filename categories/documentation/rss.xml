@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Software &amp; Beyond - Documentation</title>
-        <link>https://Software &amp; Beyond-theme.netlify.app</link>
+        <link>https://yehia2amer.github.io</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://Software & Beyond-theme.netlify.app/categories/documentation/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://yehia2amer.github.io/categories/documentation/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Welcome to Software &amp; Beyond</title>
             <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/welcome-to-deep-thought/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/welcome-to-deep-thought/</guid>
+            <link>https://yehia2amer.github.io/docs/welcome-to-deep-thought/</link>
+            <guid>https://yehia2amer.github.io/docs/welcome-to-deep-thought/</guid>
             <description>&lt;p&gt;This is a small example post of stuff you can do with the &lt;code&gt;Software &amp;amp; Beyond&lt;&#x2F;code&gt; theme.
 We&#x27;ll try to represent all possible markdown and shortcode combinations here
 so you can develop easily.&lt;&#x2F;p&gt;
@@ -21,16 +21,16 @@ so you can develop easily.&lt;&#x2F;p&gt;
         <item>
             <title>Config Options</title>
             <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/config-options/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/config-options/</guid>
+            <link>https://yehia2amer.github.io/docs/config-options/</link>
+            <guid>https://yehia2amer.github.io/docs/config-options/</guid>
             <description>&lt;p&gt;Software &amp;amp; Beyond theme provides some config option like option to add favicon to your site, add avatar for profile, setup social links for the profile etc&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Extended Shortcodes</title>
             <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://Software &amp; Beyond-theme.netlify.app/docs/extended-shortcodes/</link>
-            <guid>https://Software &amp; Beyond-theme.netlify.app/docs/extended-shortcodes/</guid>
+            <link>https://yehia2amer.github.io/docs/extended-shortcodes/</link>
+            <guid>https://yehia2amer.github.io/docs/extended-shortcodes/</guid>
             <description>&lt;p&gt;Software &amp;amp; Beyond theme provides multiple shortcodes on top of built-in ones in Zola.&lt;&#x2F;p&gt;
 </description>
         </item>
