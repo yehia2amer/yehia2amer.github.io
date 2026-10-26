@@ -1,13 +1,11 @@
 base_url = "https://yehia2amer.github.io"
 title = "Software & Beyond"
 default_language = "en"
-highlight_code = true
-highlight_theme = "one-dark"
 generate_feeds = true
 feed_filenames = ["rss.xml"]
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },
-{ name = "tags", feed = true, paginate_by = 10 },
+	{ name = "tags", feed = true, paginate_by = 10 },
 ]
 languages = []
 compile_sass = true
@@ -24,6 +22,10 @@ taxonomies = "on"
 anchors = "on"
 
 [translations]
+
+[markdown]
+highlight_code = true
+highlight_theme = "one-dark"
 
 [extra]
 
@@ -56,6 +58,7 @@ google = "UA-176984489-2"
 
 [extra.mapbox]
 access_token = ""
+
 [extra.comments]
 talkyard_server_url = "https://comments-for-softwareandbeyond-com.talkyard.net"
 talkyard_script_url = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
