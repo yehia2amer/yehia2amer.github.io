@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yehia2amer.github.io/sitemap.xml
+LLMs: https://yehia2amer.github.io/llms.txt
+AI-Catalog: https://yehia2amer.github.io/ai-catalog.json
