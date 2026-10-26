@@ -3,7 +3,7 @@ title = "Software & Beyond"
 default_language = "en"
 highlight_code = true
 highlight_theme = "one-dark"
-generate_feed = true
+generate_feeds = true
 feed_filenames = ["rss.xml"]
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },
