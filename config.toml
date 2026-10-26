@@ -4,10 +4,10 @@ default_language = "en"
 highlight_code = true
 highlight_theme = "one-dark"
 generate_feed = true
-feed_filename = "rss.xml"
+feed_filenames = ["rss.xml"]
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },
-	{ name = "tags", fees = true, paginate_by = 10 },
+{ name = "tags", feed = true, paginate_by = 10 },
 ]
 languages = []
 compile_sass = true
